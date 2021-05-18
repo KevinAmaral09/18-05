@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "POO Personagens/1.0.0": {
+        "runtime": {
+          "POO Personagens.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO Personagens/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

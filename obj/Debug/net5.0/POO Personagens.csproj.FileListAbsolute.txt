@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\POO Personagens\bin\Debug\net5.0\POO Personagens.exe
+C:\Users\dev\Desktop\POO Personagens\bin\Debug\net5.0\POO Personagens.deps.json
+C:\Users\dev\Desktop\POO Personagens\bin\Debug\net5.0\POO Personagens.runtimeconfig.json
+C:\Users\dev\Desktop\POO Personagens\bin\Debug\net5.0\POO Personagens.runtimeconfig.dev.json
+C:\Users\dev\Desktop\POO Personagens\bin\Debug\net5.0\POO Personagens.dll
+C:\Users\dev\Desktop\POO Personagens\bin\Debug\net5.0\ref\POO Personagens.dll
+C:\Users\dev\Desktop\POO Personagens\bin\Debug\net5.0\POO Personagens.pdb
+C:\Users\dev\Desktop\POO Personagens\obj\Debug\net5.0\POO Personagens.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\POO Personagens\obj\Debug\net5.0\POO Personagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\POO Personagens\obj\Debug\net5.0\POO Personagens.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\POO Personagens\obj\Debug\net5.0\POO Personagens.AssemblyInfo.cs
+C:\Users\dev\Desktop\POO Personagens\obj\Debug\net5.0\POO Personagens.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\POO Personagens\obj\Debug\net5.0\POO Personagens.dll
+C:\Users\dev\Desktop\POO Personagens\obj\Debug\net5.0\ref\POO Personagens.dll
+C:\Users\dev\Desktop\POO Personagens\obj\Debug\net5.0\POO Personagens.pdb
+C:\Users\dev\Desktop\POO Personagens\obj\Debug\net5.0\POO Personagens.genruntimeconfig.cache
